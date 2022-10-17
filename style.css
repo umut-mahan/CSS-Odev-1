@@ -1,0 +1,37 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    line-height: 1.42857143;
+    margin: 0;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Lato', sans-serif;
+    color: #FB2576;
+
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+section {
+    padding: 60px 0;
+    text-align: center;
+    border: 5%;
+    border-color: #3F0071;
+    
+}
+
+article {
+    text-align: center;
+}
+
+.gifs {
+    display: inline-block;
+    margin: 0 10px;
+    width: 300px;
+}
